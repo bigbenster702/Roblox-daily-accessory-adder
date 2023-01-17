@@ -1,0 +1,18 @@
+{
+  "name": "roblox-daily-accessory-adder",
+  "version": "1.0.0",
+  "description": "Adds an item everyday that you can pick to your Roblox avatar. Works best with shirts and pants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bigbenster702",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cron": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "figlet": "^1.5.2",
+    "noblox.js": "^4.13.1"
+  }
+}
