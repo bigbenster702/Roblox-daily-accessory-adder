@@ -10,5 +10,8 @@ RBLXCOOKIE = ""
 For TZ put your timezone in. Ex. America/Chicago.
 For RBLXCOOKIE put in your Roblox Cookie. Most people don't know how to get this so here is an example how: https://www.youtube.com/watch?v=1v3inNUxyL8
 
-## Notes
+## Setting up IDs.
+In index.js where it says noblox.wearAssetId("") in the quotes but the ID of the asset. Above you should see what day that ties to.
+
+### Notes
 Make sure that you never share your roblox cookie to anyone. Sharing it would let anyone access your account without a password.
